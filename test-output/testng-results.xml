@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="131012" started-at="2020-10-05T23:13:15 PDT" finished-at="2020-10-05T23:15:26 PDT">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="131012" started-at="2020-10-05T23:13:15 PDT" finished-at="2020-10-05T23:15:26 PDT">
+      <class name="testRunnerClass.SingleReceiptRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="setUpClass" is-config="true" duration-ms="513" started-at="2020-10-05T23:13:15 PDT" finished-at="2020-10-05T23:13:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="runScenario" duration-ms="20754" started-at="2020-10-05T23:13:15 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-05T23:13:36 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Upload of Single expense receipt"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="runScenario" duration-ms="40247" started-at="2020-10-05T23:13:36 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-05T23:14:16 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Upload of Single expense receipt"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="runScenario" duration-ms="28803" started-at="2020-10-05T23:14:16 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-05T23:14:45 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Upload of Single expense receipt"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="runScenario" duration-ms="8879" started-at="2020-10-05T23:14:45 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-05T23:14:54 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Upload of Single expense receipt"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="runScenario" duration-ms="8807" started-at="2020-10-05T23:14:54 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-05T23:15:03 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Upload of Single expense receipt"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="runScenario" duration-ms="20773" started-at="2020-10-05T23:15:03 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-05T23:15:24 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Upload of Single expense receipt"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="runScenario" duration-ms="2077" started-at="2020-10-05T23:15:24 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-05T23:15:26 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Upload of Single expense receipt"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testRunnerClass.SingleReceiptRunner@7403c468]" name="tearDownClass" is-config="true" duration-ms="6" started-at="2020-10-05T23:15:26 PDT" finished-at="2020-10-05T23:15:26 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunnerClass.SingleReceiptRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
